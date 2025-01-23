@@ -14,8 +14,6 @@
 
 ## 🔋 Battery
 
-[bq24210](https://www.npmjs.com/package/@typecad/rd-bq24210) - 800-mA, Single-Input, Single-Cell Li-Ion Battery Solar Charger
-
 <img src="./resources/bq24210.png" width="200">
 
 ## Creating packages
