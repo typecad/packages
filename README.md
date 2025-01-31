@@ -4,13 +4,12 @@
 
 [ESP32S3](https://www.npmjs.com/package/@typecad/rd_esp32s3) - Reference design for the ESP32-S3 module
 
-<img src="./resources/esp32s3.png" width="200">
-
 ---
 
 ## 📐 Sensor
 
 ## 🔌 Power
+[ISL9120IR](https://www.npmjs.com/package/@typecad/rd_isl9120ir) - Reference design for the ISL9120IR, a compact high-efficiency low-power buck-boost regulator.
 
 ## 🔋 Battery
 
